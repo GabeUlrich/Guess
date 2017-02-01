@@ -5,6 +5,7 @@ import java.util.Random;
 import java.util.Scanner;
 
 /**
+ * This is made using github
  *
  * @author Administrator Gabe
  */
